@@ -1,0 +1,3 @@
+﻿  ClassWork(Bogdan).cpp
+C:\Users\Top16\source\repos\ClassWork(Bogdan)\ClassWork(Bogdan)\ClassWork(Bogdan).cpp(27,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ClassWork(Bogdan).vcxproj -> C:\Users\Top16\source\repos\ClassWork(Bogdan)\x64\Debug\ClassWork(Bogdan).exe
